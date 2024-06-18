@@ -12,6 +12,17 @@ I am currently working on building an ios app to monitor the moisture level in t
 - Swift/SwiftUI
 - Data Engineering
 - Backend Development
+- Data Science
+
+# ⚡ Skills ...
+
+- Chemical Engineering
+- Python
+- SQL
+- C++
+- Swift
+- MATLAB/Simulink
+- Software Development
 
 
 <!--
