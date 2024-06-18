@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Mark
+
+I am a data engineer and software developer with a background in chemical engineering.  I love to create and explore new tools to evolve my skills and push towards innovative solutions to the complex problems in our world.
 
 <!--
 **markMintel/markMintel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
