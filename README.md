@@ -7,6 +7,11 @@ I am a data engineer and software developer with a background in chemical engine
 
 I am currently working on building an ios app to monitor the moisture level in the soil of house plants and gardens.  The app is designed to measure the moisture and trigger a pump to water the plants.  This is done using a Raspberry Pi running a web application in combination with an Arduino which reads the moisture and triggers the pump when a call is made from the app.
 
+## Languages ...
+
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![swift](https://img.shields.io/badge/Swift-yellow.svg?style=for-the-badge&logo=Swift&logoColor)
+
 ## 🌱 I’m currently learning ...
 
 - Swift/SwiftUI
