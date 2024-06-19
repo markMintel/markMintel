@@ -25,9 +25,11 @@ I am currently working on building an ios app to monitor the moisture level in t
 - Software Development
 
 ## 🔗 Links
+
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mark-mintel-0aa750214/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/markMintel)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://www.instagram.com/marmin_tunes/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marmin_tunes/)
+
 
 
 <!--
