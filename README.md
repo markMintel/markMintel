@@ -1,4 +1,4 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">  I'm Mark
+# Hi there 
 
 I am a data engineer and software developer with a background in chemical engineering.  I love to create and explore new tools to evolve my skills and push towards innovative solutions to the complex problems in our world.
 
