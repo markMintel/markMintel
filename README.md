@@ -5,21 +5,23 @@ I am a data engineer and software developer with a background in chemical engine
 
 ## 🔭 I’m currently working on ...
 
-I am currently working on building an ios app to monitor the moisture level in the soil of house plants and gardens.  The app is designed to measure the moisture and trigger a pump to water the plants.  This is done using a Raspberry Pi running a web application in combination with an Arduino which reads the moisture and triggers the pump when a call is made from the app.
+My most recent project was building an ios app that connect to my GCP-hosted API to monitor the moisture level in the soil of house plants and gardens.  The app is designed to measure the moisture and trigger a pump to water the plants.  This is done using a Raspberry Pi in combination with an Arduino which reads the moisture and triggers the pump when a call is made from the app.  The app supports multiple users, tracks moisture level trends, as well as multiple plant integration.  The next steps will be integrating an LLM into the UI to give insights into your plants and well as suggestions on how to keep them healthy. The application was built in python and has a fully functioning CI/CD pipeline.
 
 
 ## 🌱 I’m currently learning ...
 
-- Swift/SwiftUI
-- Data Engineering
-- Backend Development
-- Data Science
+- Data Architecture and Modeling
+- DevOps Engineering
 
 ## ⚡ Skills ...
 
 - Chemical Engineering
 - Analytics Engineering
 - Software Development
+- Swift/SwiftUI
+- Data Engineering
+- Backend Development
+- Data Science
 
 ### Languages ...
 
